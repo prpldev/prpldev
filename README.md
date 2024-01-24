@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on various projects on the Roblox platform.
+- 🌱 I’m currently learning C++ and JS.
+
 <!--
 **prpldev/prpldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
